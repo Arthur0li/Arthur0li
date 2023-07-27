@@ -1,4 +1,4 @@
--- Bem-vindo(a) ao perfil do Arthur 😁 --- Welcome to Arthur's profile 😁 --
+## Welcome to Arthur's profile 😁
 
  <div>
    <a href="https://github.com/Arthur0li">
