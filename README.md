@@ -1,6 +1,6 @@
 ## Hello, my name is Arthur! 👋
 
-<img src="https://i.pinimg.com/736x/02/40/e0/0240e0cfa0f95c73c8710459e4d027a4.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/736x/02/40/e0/0240e0cfa0f95c73c8710459e4d027a4.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="500px" align="right">
 
 <p align="left"> 
   I am a Systems Analysis and Development student at Fatec Rubens Lara,
