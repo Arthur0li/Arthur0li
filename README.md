@@ -1,6 +1,6 @@
 ## Hello, my name is Arthur! 👋
 
-<img src="https://i.pinimg.com/736x/02/40/e0/0240e0cfa0f95c73c8710459e4d027a4.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="500px" align="right">
+<img src="https://i.pinimg.com/736x/02/40/e0/0240e0cfa0f95c73c8710459e4d027a4.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   I am a Systems Analysis and Development student at Fatec Rubens Lara,
@@ -24,12 +24,6 @@
   </p>
 </p>
 
-<p align="left">
-💬 Contact:
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-oliveira-21ab8a236/)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:artholi321@gmail.com)
-
-</p>
 <br> 
 <br>
 
