@@ -34,14 +34,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Arthur0li&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=Arthur0li&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=1800"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur0li&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur0li&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800"
         alt="Github Stats"
       />
     </td>
