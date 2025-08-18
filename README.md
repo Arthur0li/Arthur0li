@@ -1,6 +1,6 @@
 ## Hello, my name is Arthur! 👋
 
-<img src="https://i.pinimg.com/736x/02/40/e0/0240e0cfa0f95c73c8710459e4d027a4.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/1200x/56/e9/f0/56e9f06a72bca28af3c7b4c0de5a5096.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   I am a Systems Analysis and Development student at Fatec Rubens Lara,
@@ -33,30 +33,24 @@
   <tr>
     <td>
       <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Arthur0li&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=1800"
-        alt="Github Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Arthur0li&theme=dark&hide_border=false&cache_seconds=1800"
+        alt="Arthur0li's GitHub stats"
       />
     </td>
     <td>
       <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur0li&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800"
-        alt="Github Stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur0li&theme=dark&hide_border=false&count_private=true&layout=compact&cache_seconds=1800"
+        alt="Top languages used by Arthur0li"
       />
     </td>
   </tr>
 </table>
 
---- 
+---
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Arthur0li&color=green" alt="Profile views"/>
+  </p>
 </div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Arthur0li/count.svg"
-    alt="Number of visitors to the profile"
-  />
-</p>
