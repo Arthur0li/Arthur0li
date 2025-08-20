@@ -1,6 +1,6 @@
 ## Hello, my name is Arthur! 👋
 
-<img src="https://i.pinimg.com/1200x/56/e9/f0/56e9f06a72bca28af3c7b4c0de5a5096.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/originals/ef/90/15/ef90155f5e5af847b7eea15e496958bd.gif" alt="ilustração de um computador" min-heigh="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   I am a Systems Analysis and Development student at Fatec Rubens Lara,
@@ -34,7 +34,7 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Arthur0li&theme=dark&hide_border=false&cache_seconds=1800"
+        src="https://github-readme-stats.vercel.app/api?username=Arthur0li&theme=tokyonight&hide_border=false&cache_seconds=1800"
         alt="Arthur0li's GitHub stats"
       />
     </td>
