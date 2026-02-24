@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0a205a&text=Arthur%20Oliveira&textBg=false&animation=fadeIn&desc=Student%20of%20System%20Analysis%20and%20Development&fontColor=FFE4B5"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Arthur0li">
-    <img src="https://komarev.com/ghpvc/?username=Arthur0li&label=Profile%20views&color=00FFFF&style=flat-square" alt="Arthur0li's profile views" />
-  </a>
-</p>
-
 <img src="https://i.pinimg.com/originals/ef/90/15/ef90155f5e5af847b7eea15e496958bd.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
@@ -25,7 +19,11 @@
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
-
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Arthur0li">
+    <img src="https://komarev.com/ghpvc/?username=Arthur0li&label=Profile%20views&color=00FFFF&style=flat-square" alt="Arthur0li's profile views" />
+  </a>
+</p>
 
 ## 🛠️ Languages & Tools
 
