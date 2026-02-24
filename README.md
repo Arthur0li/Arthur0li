@@ -9,16 +9,18 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Arthur0li">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arthur0li&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="Arthur0li's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arthur0li&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10"
+         alt="Arthur0li's GitHub Stats" width="48%" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Arthur0li&theme=prussian&hide_border=true&cache_seconds=86400" alt="Arthur0li's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Arthur0li&theme=prussian&hide_border=true&cache_seconds=86400"
+       alt="Arthur0li's GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur0li&theme=cobalt&radius=10" alt="Arthur0li's Activity Graph" />
+  <a href="https://komarev.com/ghpvc/?username=Arthur0li">
+    <img src="https://komarev.com/ghpvc/?username=Arthur0li&label=Profile%20views&color=00FFFF&style=flat-square" alt="Arthur0li's profile views" />
+  </a>
 </p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
+
 
 ## 🛠️ Languages & Tools
 
@@ -36,10 +38,3 @@
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/arthur-oliveira-21ab8a236/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:artholi321@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Arthur0li">
-    <img src="https://komarev.com/ghpvc/?username=Arthur0li&label=Profile%20views&color=00FFFF&style=flat-square" alt="Arthur0li's profile views" />
-  </a>
-</p>
-
