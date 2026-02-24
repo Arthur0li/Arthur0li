@@ -20,12 +20,6 @@
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Arthur0li">
-    <img src="https://komarev.com/ghpvc/?username=Arthur0li&label=Profile%20views&color=00FFFF&style=flat-square" alt="Arthur0li's profile views" />
-  </a>
-</p>
-
 ## 🛠️ Languages & Tools
 
 > ## Programming languages ​​that I am learning
@@ -42,4 +36,10 @@
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/arthur-oliveira-21ab8a236/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:artholi321@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Arthur0li">
+    <img src="https://komarev.com/ghpvc/?username=Arthur0li&label=Profile%20views&color=00FFFF&style=flat-square" alt="Arthur0li's profile views" />
+  </a>
+</p>
 
