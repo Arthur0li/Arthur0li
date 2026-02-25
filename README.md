@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=0a205a&text=Arthur%20Oliveira&textBg=false&animation=fadeIn&desc=Student%20of%20System%20Analysis%20and%20Development&fontColor=FFE4B5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0a205a&text=Arthur%20Oliveira&textBg=false&animation=fadeIn&desc=Student%20of%20System%20Analysis%20and%20Development&fontColor=FFE4B5"/>
 
 <img src="https://i.pinimg.com/originals/ef/90/15/ef90155f5e5af847b7eea15e496958bd.gif" alt="Banner" width="100%" />
 
