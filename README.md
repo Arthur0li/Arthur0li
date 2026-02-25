@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0a205a&text=Arthur%20Oliveira&textBg=false&animation=fadeIn&desc=Student%20of%20System%20Analysis%20and%20Development&fontColor=FFE4B5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=0a205a&text=Arthur%20Oliveira&textBg=false&animation=fadeIn&desc=Student%20of%20System%20Analysis%20and%20Development&fontColor=FFE4B5"/>
 
 <img src="https://i.pinimg.com/originals/ef/90/15/ef90155f5e5af847b7eea15e496958bd.gif" alt="Banner" width="100%" />
 
@@ -38,3 +38,5 @@
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/arthur-oliveira-21ab8a236/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:artholi321@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0a205a&section=footer"/>
