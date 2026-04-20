@@ -25,10 +25,23 @@
 ## 🛠️ Languages & Tools
 
 > ## Programming languages ​​that I am learning
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt= "C" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt= "arduino" width="48" height="48" style="margin: 4px;" /></p>
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="48" height="48" /></td>
+  </tr>
+</table>
 
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="48" height="48" style="margin: 4px;" /></p>
+<table align="center">
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" height="48" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="48" height="48" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Arthur0li">
@@ -36,7 +49,22 @@
   </a>
 </p>
 
+
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/arthur-oliveira-21ab8a236/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:artholi321@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/arthur-oliveira-21ab8a236/" target="_blank">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:artholi321@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0a205a&section=footer"/>
