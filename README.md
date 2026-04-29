@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Arthur0li">
-    <img src="https://komarev.com/ghpvc/?username=Arthur0li&label=Profile%20views&color=00FFFF&style=flat-square" alt="Arthur0li's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Arthur0li&label=Profile%20views&color=29479d&style=flat-square" alt="Arthur0li's profile views" />
   </a>
 </p>
 
