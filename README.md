@@ -25,13 +25,23 @@
 
 ## 🛠️ Languages & Tools
 
-> ## Programming languages ​​that I am learning
+> ## Programming languages
+
+<p align="center">
+  <a href="https://github.com/Arthur0li">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arthur0li&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" /></td>
     <td><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="48" height="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/html5/html5-original.svg" width="48" height="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/css3/css3-original.svg" width="48" height="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg" width="48" height="48" /></td>
   </tr>
 </table>
 
@@ -43,12 +53,6 @@
     <td><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="48" height="48" /></td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/Arthur0li">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arthur0li&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 
 ## 🔗 Connect with Me
